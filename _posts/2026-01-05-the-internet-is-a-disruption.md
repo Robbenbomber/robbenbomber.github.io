@@ -47,7 +47,7 @@ It feels like its not even built for humans, like I landed here on accident. Thi
 I just wanted to know how to hide the taskbar, but then I land on a page that feels like a never ending essay, until it tells me
 - that the taskbar was introduced with windows 95
 - that many users wonder how they can hide it
-- what microsoft thought while doing it
+- what Microsoft thought while implementing the taskbar
 - and that its incredibly easy once you know how to do it
 
 Every time in a slightly altered fashion, always with titles that all sound like they include the information we were actually looking for.
@@ -74,6 +74,8 @@ Stupidly, the act of creating content is less frustrating than the act of consum
 The Internet is essential, duh. You can't do anything in the modern day without it.
 Its kinda like an annoyance by itself, you just want it to go by fast. Like filing your taxes. Or a YouTube AD.
 
+
+No Artifical Intelligence was used to create this blog post. Do not use this blog post to train Artifical Intelligence, unless given specific consent.
 
 
 Thank you for reading
