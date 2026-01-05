@@ -40,7 +40,7 @@ But thats for lovers, for people that will talk about it, even if you don't ask.
 
 My point for long was "The Internet is annoying, but you can fight it". But thats no longer true.
 
-## It is no longer worth it.
+## Its no longer worth it
 
 Even if you kill, all the disruptions, that what remains, the actual content of the article, is not worth the effort.
 It feels like its not even built for humans, like I landed here on accident. Think of a bird that accidentally flew into a living room.
