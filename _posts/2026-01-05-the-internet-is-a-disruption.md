@@ -1,5 +1,5 @@
 ---
-title: The Internet: A disruption
+title: "The Internet: A disruption"
 date: 2026-01-05 23:00:00 +0100
 categories: [Rants]
 tags: [Internet Theory]
