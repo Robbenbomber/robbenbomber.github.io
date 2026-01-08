@@ -1,7 +1,7 @@
 ---
 title: "The School System is systematically flawed"
 date: 2026-01-08 21:39:05 +0100
-categories: [Real World Issues]
+categories: [Rants]
 tags: [Issues, School, Failing System]
 ---
 
