@@ -6,7 +6,7 @@ tags: [Issues, School, Failing System]
 ---
 
 {: .prompt-tip }
-> **Content Information:** I am not a expert and this is purely based on research i've done and my personal opinion.
+> **Content Information:** I am not a expert and this is purely based on research I've done and my personal opinion.
 
 {: .prompt-warning }
 > This post talks mainly about Germany, unless specified otherwise.
