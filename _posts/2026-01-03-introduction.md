@@ -1,8 +1,8 @@
 ---
 title: Introduction
 date: 2026-01-03 12:00:00 +0100
-categories: [Personal Posts]
-tags: [Personal]
+categories: [Personal]
+tags: [Personal, Transgender]
 ---
 
 Hello World! I've finally managed to set this blog up, using the kind help of [Rose](https://rose1440.is-a.dev/)! Be sure to check them and their blog out.
