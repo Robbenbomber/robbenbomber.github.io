@@ -1,6 +1,6 @@
 ---
 title: "Tumblr Dualposting: What's next?"
-date: 2026-01-10 10:15:00 +0100
+date: 2026-07-10 10:15:00 +0100
 categories: [Information]
 tags: [Tumblr, Blogging]
 ---
