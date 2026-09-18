@@ -12,14 +12,14 @@ But the internet had a much funnier punchline in mind.
 Say the name "Kirk" to anyone plugged into modern internet culture, and they don't think of campus debates. And probably neither do you.
 The internet thinks of kirkified Viggle.ai bullshit slop, or rather, a meme.
 
-# The Illusion of a Legacy
+## The Illusion of a Legacy
 
 To truly grasp on just how brutal this erasure of any meaning of his name is, you have to look at what Kirk actually tried to build.
 Back in the late 2010's, TPUSA pumped a ridiculous amount of money into making him the conservative golden boy.
 He was everywhere: setting up college campus debate tables trying to "own the libs" which back then already caused him to be the punchline of dozens of memes about his rather small face.
 Then came September 10th, 2025. And with it, the internets true reaction to Charlie Kirk revealed itself. As with any tragedy... it was content.
 
-# What... or who carried the flame?
+## What... or who carried the flame?
 
 Within days of the assassination, a Christian production company dropped an AI-generated "tribute" song called "We Are Charlie Kirk".
 It was meant to be an eulogy, but the catchy beat made it impossible. Rather quite quickly the song became less "in memoriam" and more of a meme template.
@@ -31,7 +31,7 @@ It was thriving more than ever I'd say. "Kirkiversary", "Kirktember 10th", "Kirk
 The internet had, without iron (which is itself the point), turned the anniversary of a man's assassination into a recurring holiday for shitposting.
 And I'll be honest, I take joy and pride in this culture aswell. It's funny.
 
-# Eventually, someone takes you at your word.
+## Eventually, someone takes you at your word.
 
 In April of 2023, Kirk stood on a stage and made his case for why some number of dead Americans every year was an acceptable trade-off for gun rights:
 
@@ -43,10 +43,10 @@ It's not poetic justice, that would require someone to have it planned that way.
 It's just the flattest, most literal kind of irony.
 Building your entire political brand around insisting that a certain amount of gun violence is simply the acceptable cost of doing business in America, and then America sends him the bill.
 
-# Why nobody owes him a Eulogy
+## Why nobody owes him a Eulogy
 And that's really the crux of why the internet didn't grieve.
 Grief requires the belief that something valuable was lost.
-A lot of people, myself included, just didn't buy that premise,  because the record is right there:
+A lot of people, myself included, just didn't buy that premise, because the record is right there:
 He mused, on his own show, that seeing a Black pilot made him hope the man was "qualified", implying by default that he wouldn't be.
 
 He called abortion "eight times worse than the Holocaust," casually detonating the worst atrocity of the 20th century as a rhetorical prop.
@@ -60,7 +60,7 @@ And that rhetoric didn't up in his ass, it filtered down into the lives of the p
 When the internet made jokes about his death, then that's not really cruelty.
 You don't get to spend a decade treating cruelty as content and then be shocked when the content outlives the cruelty and turns back into a joke about you.
 
-# From Rhetoric to Reflex
+## From Rhetoric to Reflex
 
 Going back to Kirkification, have you ever heard the word "lowkirkenuienly"?
 nobody using the word is thinking about the Second Amendment quote, the pilot comment, or the "eight times worse than the Holocaust" line. They're not thinking about him at all, ideologically speaking.
