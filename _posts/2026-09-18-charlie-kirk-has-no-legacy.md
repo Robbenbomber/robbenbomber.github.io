@@ -47,11 +47,11 @@ Building your entire political brand around insisting that a certain amount of g
 And that's really the crux of why the internet didn't grieve.
 Grief requires the belief that something valuable was lost.
 A lot of people, myself included, just didn't buy that premise,  because the record is right there:
-He mused, on his own show, that seeing a Black pilot made him hope the man was "qualified" — implying by default that he wouldn't be.
+He mused, on his own show, that seeing a Black pilot made him hope the man was "qualified", implying by default that he wouldn't be.
 
 He called abortion "eight times worse than the Holocaust," casually detonating the worst atrocity of the 20th century as a rhetorical prop.
 
-He blamed "Jewish dollars" for funding what he called "cultural Marxist ideas" — a line pulled almost verbatim from a century of antisemitic conspiracy theory.
+He blamed "Jewish dollars" for funding what he called "cultural Marxist ideas", a line pulled almost verbatim from a century of antisemitic conspiracy theory.
 
 He compared a trans person's identity to blackface: "A man who calls himself trans is wearing 'woman face,' no different than I would wear Black face trying to be a Black person."
 
