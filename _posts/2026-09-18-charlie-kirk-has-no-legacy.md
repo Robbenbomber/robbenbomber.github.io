@@ -28,14 +28,14 @@ What followed was "Kirkification". The act of plastering Kirk's face with AI too
 His face lost all meaning of what a face is to represent. A person. It was turned into a texture, an asset if you will, the way you slap a big nose filter on you on Snapchat.
 And you'd think it'd be over after a year. *INCREDIBLY LOUD INCORRECT BUZZER*
 It was thriving more than ever I'd say. "Kirkiversary", "Kirktember 10th", "Kirkentine's Day".
-The internet had, without iron (which is itself the point), turned the anniversary of a man's assassination into a recurring holiday for shitposting.
+The internet had, without irony (which is itself the point), turned the anniversary of a man's assassination into a recurring holiday for shitposting.
 And I'll be honest, I take joy and pride in this culture aswell. It's funny.
 
 ## Eventually, someone takes you at your word.
 
 In April of 2023, Kirk stood on a stage and made his case for why some number of dead Americans every year was an acceptable trade-off for gun rights:
 
-"think it's worth it. I think it's worth to have a cost of, unfortunately, some gun deaths every single year so that we can have the Second Amendment to protect our other God-given rights. That is a prudent deal. It is rational."
+"I think it's worth it. I think it's worth to have a cost of, unfortunately, some gun deaths every single year so that we can have the Second Amendment to protect our other God-given rights. That is a prudent deal. It is rational."
 
 He was shot dead with a rifle seventeen months later.
 
